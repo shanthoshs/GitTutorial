@@ -1,7 +1,8 @@
-# GitHubPractice #
+# GitHubPractice
 
-## This is the Read Me file for the GitHubPractice repository on GitHub. ##
-## Use this repository to get some more git practice; specificaly with forking. ##
+## This is the Read Me file for the GitHubPractice repository on GitHub.
+
+Use this repository to get some more git practice; specifically with forking.
 
 GitHub recognizes this Read Me file as a markdown file. When you look at it on this page GitHub displays it a particular way using the markdown syntax.
 
@@ -14,3 +15,5 @@ GitHub recognizes this Read Me file as a markdown file. When you look at it on t
 3. Now using only your bash program create a file and add a line of text to it. Again use the bash commands to add it to the staging area, add a commit comment, and lastly push it up to the repository.
 
 4. Now do the same exact thing as the two previous steps, only in your repository. Don't use your text editor and do not use your bash program. Use only https://github.com/[your_github_account]/GitHubPractice
+
+Another repository for more git practice: [Push, pull, and pull request practice](https://github.com/JamieBort/GitHubPullRequestPractice)
