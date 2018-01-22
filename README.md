@@ -1,3 +1,3 @@
-##GitHubPractice##
+## GitHubPractice ##
 
-#This is the Read Me file for the GitHubPractice repository on GitHub.#
+# This is the Read Me file for the GitHubPractice repository on GitHub. #
