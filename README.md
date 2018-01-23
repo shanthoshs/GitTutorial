@@ -1,6 +1,8 @@
 # GitHubPractice
 
-## This is the Read Me file for the GitHubPractice repository on GitHub.
+## A repository for others to practice their forking git skills with.
+
+This is the Read Me file for the GitHubPractice repository on GitHub.
 
 Use this repository to get some more git practice; specifically with forking.
 
